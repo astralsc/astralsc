@@ -1,2 +1,12 @@
-# fdz6.github.io
-My main repository of my Github account!
+# 👋 Hi, I'm AstralSC!
+
+Welcome to my GitHub profile!
+
+---
+
+## Active Projects
+
+- [**AstralRoyale**](https://github.com/astralsc/AstralRoyale)  
+  My RetroRoyale fork with fixes & more implementations.
+
+---
