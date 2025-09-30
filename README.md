@@ -10,3 +10,5 @@ Welcome to my GitHub profile!
   My RetroRoyale fork with fixes & more implementations.
 
 ---
+
+![Astralsc's GitHub stats](https://github-readme-stats.vercel.app/api?username=astralsc&show_icons=true)
