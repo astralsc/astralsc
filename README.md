@@ -5,7 +5,9 @@ Welcome to my GitHub profile!
 ---
 
 ## Active Projects
-
+- [**AstralClash**](https://github.com/Greedycell/AstralClash)
+  The first Node.js Clash of Clans server for 9.256.x 
+  
 - [**AstralRoyale Legacy**](https://github.com/Greedycell/AstralRoyaleLegacy)  
   My RetroRoyale fork with fixes & more implementations.
 
