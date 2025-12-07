@@ -16,4 +16,4 @@ Welcome to my GitHub profile!
 
 ---
 
-![AstralSC's Github Stats](https://github-readme-stats.vercel.app/api?username=astralsc&show_icons=true&theme=dark)
+![AstralSC's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=dark)
