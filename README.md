@@ -11,6 +11,9 @@ Welcome to my GitHub profile!
 - [**AstralRoyale Legacy**](https://github.com/Greedycell/AstralRoyaleLegacy)  
   My RetroRoyale fork with fixes & more implementations.
 
+- [**RetroRoyale Client**](https://github.com/Greedycell/RetroRoyaleClient)  
+  A Node.js RetroRoyale Client.
+
 ---
 
 ![AstralSC's Github Stats](https://github-readme-stats.vercel.app/api?username=astralsc&show_icons=true&theme=dark)
