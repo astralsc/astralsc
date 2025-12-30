@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 
 - [**RetroRoyale Client**](https://github.com/Greedycell/RetroRoyaleClient)  
   A Node.js RetroRoyale Client.
-- [**RetroRoyale Client**](https://github.com/Greedycell/ClassicClash)  
+- [**ClassicClash**](https://github.com/Greedycell/ClassicClash)  
   A Python Clash of Clans server supporting multiple older versions 
 
 ---
