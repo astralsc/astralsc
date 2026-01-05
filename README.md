@@ -17,7 +17,3 @@ Welcome to my GitHub profile!
   The first Node.js Clash of Clans server for 9.256.x.
 
 ---
-
-![AstralSC's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=astralsc&theme=dark)
-![AstralSC's Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astralsc&theme=dark)
-![AstralSC's Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astralsc&theme=dark)
