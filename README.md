@@ -9,12 +9,8 @@ Welcome to my GitHub profile!
   A Node.js 2017 Clash Royale Server (v2.1.8)
 - [**AstralRoyale Legacy**](https://github.com/Greedycell/AstralRoyaleLegacy)  
   Our RetroRoyale fork with fixes & more implementations.
-- [**ClassicClash**](https://github.com/Greedycell/ClassicClash)  
-  A Python Clash of Clans server supporting multiple older versions
-- [**AstralBrawl**](https://github.com/Greedycell/AstralBrawl)  
-  A Brawl Stars V12 private server written on Python
-- [**AstralClash (COMING SOON)**](https://github.com/Greedycell/AstralClash)  
-  The first Node.js Clash of Clans server for 9.256.x.
+- [**AstralClash (COMING SOON)**](https://github.com/Apexpowa/ACS)  
+  A next-generation Clash of Clans private server emulator written in JavaScript.
 
 ---
 
