@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ---
 
 ## Active Projects
-- [**AstralRoyale (COMING SOON)**](https://github.com/Greedycell/AstralRoyale)  
+- [**AstralRoyale**](https://github.com/Greedycell/AstralRoyale)  
   A Node.js 2017 Clash Royale Server (v2.1.8)
 - [**AstralRoyaleLegacy**](https://github.com/Greedycell/AstralRoyaleLegacy)  
   Our RetroRoyale fork with fixes & more implementations.
