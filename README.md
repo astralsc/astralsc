@@ -13,6 +13,10 @@ Welcome to my GitHub profile!
   A next-generation Clash of Clans private server emulator written in JavaScript.
 - [**Apexpowa Royale Server**](https://github.com/Apexpowa/ARS)  
   A next-generation Clash Royale private server emulator written in JavaScript.
+- [**PigletHunt**](https://github.com/PiggyHunt/PigletHunt)  
+  The first open-source private server for the abandoned Steam game PIGGY: Hunt
+- [**PigletHunt-Beamable**](https://github.com/PiggyHunt/PigletHunt-Beamable)  
+  The first open-source private server for the abandoned Steam game PIGGY: Hunt
 
 ---
 
