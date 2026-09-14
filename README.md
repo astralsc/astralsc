@@ -1,6 +1,6 @@
 # 👋 Hi, I'm AstralSC!
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! Here is a list of my active projects that I enjoy working on!
 
 ---
 
