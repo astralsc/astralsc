@@ -11,6 +11,8 @@ Welcome to my GitHub profile!
   Our RetroRoyale fork with fixes & more implementations.
 - [**Apexpowa Clash Server**](https://github.com/Apexpowa/ACS)  
   A next-generation Clash of Clans private server emulator written in JavaScript.
+- [**Apexpowa Royale Server**](https://github.com/Apexpowa/ARS)  
+  A next-generation Clash Royale private server emulator written in JavaScript.
 
 ---
 
